@@ -9,6 +9,7 @@ cinst Atom
 cinst balsamiqmockups3
 cinst ChocolateyGUI
 cinst codeblocks
+cinst docker
 cinst eclipse
 cinst Firefox
 cinst flashplayeractivex
