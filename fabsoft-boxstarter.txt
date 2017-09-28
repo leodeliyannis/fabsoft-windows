@@ -1,44 +1,46 @@
-cinst -y 7zip
-cinst -y AdobeAIR
-cinst -y adobeshockwaveplayer
-cinst -y AndroidStudio
-cinst -y arduino
-cinst -y Atom
-cinst -y balsamiqmockups3
-cinst -y ChocolateyGUI
-cinst -y codeblocks
-cinst -y eclipse
-cinst -y Firefox
-cinst -y flashplayeractivex
-cinst -y flashplayerplugin
-cinst -y flashplayerppapi
-cinst -y freecad
-cinst -y geogebra6
-cinst -y git
-cinst -y GoogleChrome
-cinst -y GoogleDrive
-cinst -y https-everywhere-chrome
-cinst -y https-everywhere-firefox
-cinst -y imgburn
-cinst -y IrfanView
-cinst -y irfanviewplugins
-cinst -y jdk8
-cinst -y jre8
-cinst -y mariadb
-cinst -y mongodb
-cinst -y nodejs
-cinst -y notepadplusplus
-cinst -y PDFCreator
-cinst -y PDFXChangeViewer
-cinst -y pencil
-cinst -y pgadmin3
-cinst -y php
-cinst -y postgresql
-cinst -y rufus
-cinst -y Silverlight
-cinst -y SublimeText3
-cinst -y thunderbird
-cinst -y Tomcat
-cinst -y VisualStudioCode
-cinst -y vlc-nightly
-cinst -y wps-office-free
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowFileExtensions
+
+cinst 7zip
+cinst AdobeAIR
+cinst adobeshockwaveplayer
+cinst AndroidStudio
+cinst arduino
+cinst Atom
+cinst balsamiqmockups3
+cinst ChocolateyGUI
+cinst codeblocks
+cinst eclipse
+cinst Firefox
+cinst flashplayeractivex
+cinst flashplayerplugin
+cinst flashplayerppapi
+cinst freecad
+cinst geogebra6
+cinst git
+cinst GoogleChrome
+cinst GoogleDrive
+cinst https-everywhere-chrome
+cinst https-everywhere-firefox
+cinst imgburn
+cinst IrfanView
+cinst irfanviewplugins
+cinst jdk8
+cinst jre8
+cinst mariadb
+cinst mongodb
+cinst nodejs
+cinst notepadplusplus
+cinst PDFCreator
+cinst PDFXChangeViewer
+cinst pencil
+cinst pgadmin3
+cinst php
+cinst postgresql
+cinst rufus
+cinst Silverlight
+cinst SublimeText3
+cinst thunderbird
+cinst Tomcat
+cinst VisualStudioCode
+cinst vlc-nightly
+cinst wps-office-free
